@@ -1,0 +1,8 @@
+causal-learn
+igraph
+networkx
+numpy
+git+https://github.com/pgmpy/pgmpy.git@dev
+rcd
+# rpy2  # optional, only needed for pcalg_pc (requires R, see README)
+tqdm
